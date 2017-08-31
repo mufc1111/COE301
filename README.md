@@ -1,4 +1,4 @@
-
+ !
 #### [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#topHead)
 
 **Name:** Ethan Mejia
@@ -17,7 +17,7 @@
 
 **Course Website:** [http://www.shahmoradi.org/ICP2017F/](http://www.shahmoradi.org/ICP2017F/)
 
-**Photo:** 
+**Photo:** ![Manchester United Logo](//i.imgur.com/hfyeQmv.jpg)
 
 #### [Description of the project’s content](#secondHead)
 
@@ -32,3 +32,6 @@ For questions and troubleshooting, please contact:
 Ethan Mejia
 
 emejia@utexas.edu
+
+> I have not failed. I’ve just found 10,000 ways that won’t work.
+  [Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
