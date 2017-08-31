@@ -1,13 +1,21 @@
 #### [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#topHead)
 
 **Name:** Ethan Mejia
+
 **UT EID:** em39526
+
 **Email:** emejia@utexas.edu
+
 **Department:** Department of Aerospace Engineering and Engineering Mechanics
+
 **University:** The University of Texas at Austin
+
 **Level:** Undergraduate - Sophomore(2nd year)
+
 **ICP Class Position:** Student
+
 **Course Website:** [http://www.shahmoradi.org/ICP2017F/](http://www.shahmoradi.org/ICP2017F/)
+
 **Photo:** 
 
 #### [Description of the project’s content](#secondHead)
