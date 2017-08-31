@@ -1,5 +1,4 @@
 <h4 id="firstHead"><a href="#firstHead">ICP2017F - Engineering Computation Lab Project (Spring 2017)</a></h4>
-<hr>
 <p>
     <strong>Name: </strong>Ethan Mejia<br>
     <strong>UT EID: </strong>em39526<br>
