@@ -1,4 +1,4 @@
-#### [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#firstHead)
+## [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#firstHead)
 
 **Name:** Ethan Mejia
 
@@ -18,7 +18,7 @@
 
 **Photo:** ![logo](http://i.imgur.com/hfyeQmv.jpg)
 
-#### [Description of the project’s content](#secondHead)
+## [Description of the project’s content](#secondHead)
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for [ICP2017F class](http://www.shahmoradi.org/ICP2017F/). The structure of the project is the following:
 
@@ -27,9 +27,10 @@ This repository contains my homework, quizzes, and virtually every effort that I
 *   **[exam:](https://github.com/mufc1111/COE301/tree/master/exam)** This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
 For questions and troubleshooting, please contact:
+
 Ethan Mejia
+
 emejia@utexas.edu
 
 > "I have not failed. I’ve just found 10,000 ways that won’t work.
-
-> [Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
+  [Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
