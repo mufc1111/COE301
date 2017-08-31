@@ -32,4 +32,10 @@ Ethan Mejia
 
 emejia@utexas.edu
 
-> "I have not failed. I’ve just found 10,000 ways that won’t work.   [Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
+<blockquote>
+    <p>
+        I have not failed. I’ve just found 10,000 ways that won’t work.
+        <br />
+        <a href="https://en.wikipedia.org/wiki/Thomas_Edison">Thomas A. Edison</a>
+    </p>
+</blockquote>
