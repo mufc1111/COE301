@@ -1,21 +1,13 @@
 ## [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#firstHead)
 
-**Name:** Ethan Mejia
-
-**UT EID:** em39526
-
-**Email:** emejia@utexas.edu
-
-**Department:** Department of Aerospace Engineering and Engineering Mechanics
-
-**University:** The University of Texas at Austin
-
-**Level:** Undergraduate - Sophomore(2nd year)
-
-**ICP Class Position:** Student
-
-**Course Website:** [http://www.shahmoradi.org/ICP2017F/](http://www.shahmoradi.org/ICP2017F/)
-
+**Name:** Ethan Mejia<br>
+**UT EID:** em39526<br>
+**Email:** emejia@utexas.edu<br>
+**Department:** Department of Aerospace Engineering and Engineering Mechanics<br>
+**University:** The University of Texas at Austin<br>
+**Level:** Undergraduate - Sophomore(2nd year)<br>
+**ICP Class Position:** Student<br>
+**Course Website:** [http://www.shahmoradi.org/ICP2017F/](http://www.shahmoradi.org/ICP2017F/)<br>
 **Photo:** 
 
 ![logo](http://i.imgur.com/hfyeQmv.jpg)
@@ -34,10 +26,12 @@ Ethan Mejia
 
 emejia@utexas.edu
 
-<blockquote>
-    <p>
-        I have not failed. I’ve just found 10,000 ways that won’t work.
-        <br />
-        <a href="https://en.wikipedia.org/wiki/Thomas_Edison">Thomas A. Edison</a>
-    </p>
-</blockquote>
+<h2>
+    <blockquote>
+        <p>
+            I have not failed. I’ve just found 10,000 ways that won’t work.
+            <br />
+            <a href="https://en.wikipedia.org/wiki/Thomas_Edison">Thomas A. Edison</a>
+        </p>
+    </blockquote>
+</h2>
