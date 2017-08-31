@@ -1,4 +1,3 @@
-
 ## [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#firstHead)
 
 **Name:** Ethan Mejia
@@ -18,6 +17,7 @@
 **Course Website:** [http://www.shahmoradi.org/ICP2017F/](http://www.shahmoradi.org/ICP2017F/)
 
 **Photo:** 
+
 ![logo](http://i.imgur.com/hfyeQmv.jpg)
 
 ## [Description of the project’s content](#secondHead)
