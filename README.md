@@ -1,3 +1,4 @@
+
 #### [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#topHead)
 
 **Name:** Ethan Mejia
@@ -27,5 +28,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 *   **[exam:](https://github.com/mufc1111/COE301/tree/master/exam)** This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
 For questions and troubleshooting, please contact:
+
 Ethan Mejia
+
 emejia@utexas.edu
