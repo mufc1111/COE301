@@ -1,37 +1,44 @@
-#### [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#topHead)
-
-**Name:** Ethan Mejia
-
-**UT EID:** em39526
-
-**Email:** emejia@utexas.edu
-
-**Department:** Department of Aerospace Engineering and Engineering Mechanics
-
-**University:** The University of Texas at Austin
-
-**Level:** Undergraduate - Sophomore(2nd year)
-
-**ICP Class Position:** Student
-
-**Course Website:** [http://www.shahmoradi.org/ICP2017F/](http://www.shahmoradi.org/ICP2017F/)
-
-**Photo:** ![Manchester United Logo](//i.imgur.com/hfyeQmv.jpg)
-
-#### [Description of the project’s content](#secondHead)
-
-This repository contains my homework, quizzes, and virtually every effort that I have made for [ICP2017F class](http://www.shahmoradi.org/ICP2017F/). The structure of the project is the following:
-
-*   **[homework:](https://github.com/mufc1111/COE301/tree/master/homework)** This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
-*   **[quiz:](https://github.com/mufc1111/COE301/tree/master/quiz)** This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
-*   **[exam:](https://github.com/mufc1111/COE301/tree/master/exam)** This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
-
-For questions and troubleshooting, please contact:
-
-Ethan Mejia
-
-emejia@utexas.edu
-
-> I have not failed. I’ve just found 10,000 ways that won’t work.
-> [Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
-
+<h4 id="firstHead"><a href="#firstHead">ICP2017F - Engineering Computation Lab Project (Spring 2017)</a></h4>
+<p>
+    <strong>Name: </strong>Ethan Mejia<br>
+    <strong>UT EID: </strong>em39526<br>
+    <strong>Email: </strong>emejia@utexas.edu<br>
+    <strong>Department: </strong>Department of Aerospace Engineering and Engineering Mechanics<br>
+    <strong>University: </strong>The University of Texas at Austin<br>
+    <strong>Level: </strong>Undergraduate - Sophomore(2nd year)<br>
+    <strong>ICP Class Position: </strong>Student<br>
+    <strong>Course Website: </strong><a href="http://www.shahmoradi.org/ICP2017F/">http://www.shahmoradi.org/ICP2017F/</a><br>
+    <strong>Photo: </strong> <img src="//i.imgur.com/hfyeQmv.jpg" alt="">
+</p>
+<h4 id="secondHead"><a href="#secondHead">Description of the project’s content</a></h4>
+<p>
+    This repository contains my homework, quizzes, and virtually every effort
+    that I have made for <a href="http://www.shahmoradi.org/ICP2017F/">ICP2017F class</a>.
+    The structure of the project is the following:
+</p>
+<ul>
+    <li><strong><a href="https://github.com/mufc1111/COE301/tree/master/homework">homework:</a></strong>
+        This directory contains all my homework submissions, each of which is a folder properly named with homework number,
+        containing the homework submission.
+    </li>
+    <li><strong><a href="https://github.com/mufc1111/COE301/tree/master/quiz">quiz:</a></strong>
+        This directory contains all my quiz submissions, each of
+        which is a folder properly named with quiz number, containing the quiz submission.
+    </li>
+    <li><strong><a href="https://github.com/mufc1111/COE301/tree/master/exam">exam:</a></strong>
+        This directory contains all my exam submissions, each of which is a folder properly named
+        with exam name or number, containing the exam submission.
+    </li>
+</ul>
+<p>
+    For questions and troubleshooting, please contact: <br>
+    Ethan Mejia<br>
+    emejia@utexas.edu<br>
+</p>
+<blockquote>
+    <p>
+        I have not failed. I’ve just found 10,000 ways that won’t work.
+        <br />
+        <a href="https://en.wikipedia.org/wiki/Thomas_Edison">Thomas A. Edison</a>
+    </p>
+</blockquote>
