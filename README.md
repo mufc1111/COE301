@@ -25,7 +25,7 @@ For questions and troubleshooting, please contact:
 Ethan Mejia<br>
 emejia@utexas.edu
 
-<h1>
+<h2>
     <blockquote>
         <p>
             I have not failed. I’ve just found 10,000 ways that won’t work.
@@ -33,4 +33,4 @@ emejia@utexas.edu
             <a href="https://en.wikipedia.org/wiki/Thomas_Edison">Thomas A. Edison</a>
         </p>
     </blockquote>
-</h1>
+</h2>
