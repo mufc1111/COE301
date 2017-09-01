@@ -1,4 +1,4 @@
-## [ICP2017F - Engineering Computation Lab Project (Spring 2017)](#firstHead)
+<h2 id="firstHead"><a href="#firstHead">ICP2017F - Engineering Computation Lab Project (Spring 2017)</a></h2>
 
 **Name:** Ethan Mejia<br>
 **UT EID:** em39526<br>
