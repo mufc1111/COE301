@@ -12,7 +12,8 @@
 
 ![logo](http://i.imgur.com/hfyeQmv.jpg)
 
-## [Description of the project’s content](#secondHead)
+<h2 id="secondHead"><a href="#secondHead">Description of the project's contents</a></h2>
+
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for [ICP2017F class](http://www.shahmoradi.org/ICP2017F/). The structure of the project is the following:
 
